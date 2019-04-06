@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Abalone.ETL", "Abalone.ETL\Abalone.ETL.dtproj", "{30FACEC5-A21E-424C-8BF7-B57B1541F6A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30FACEC5-A21E-424C-8BF7-B57B1541F6A0}.Development|Default.ActiveCfg = Development
+		{30FACEC5-A21E-424C-8BF7-B57B1541F6A0}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B1E1A1A-815C-4EED-9380-59B02B5E62FB}
+	EndGlobalSection
+EndGlobal
